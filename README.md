@@ -1,6 +1,6 @@
 Hellooo ENTNT,
 Here’s a professional and concise summary of your completed React-based Calendar Application for submission:
-React-Based Calendar Application for Communication Management**
+React-Based Calendar Application for Communication Management.
 
 This application was designed to help organizations efficiently track and manage communications with other companies, ensuring timely follow-ups and fostering strong professional relationships. The tool features three key modules: **Admin**, **User**, and an optional **Reporting and Analytics Module**, with a focus on usability, clarity, and efficient data handling.
 1. Admin Module**
@@ -18,4 +18,4 @@ Overview:
 This application is built with an emphasis on providing a centralized platform for seamless communication tracking, improving organizational efficiency, and ensuring consistent engagement with professional contacts.
 
 Thank you for the opportunity to showcase my skills. I look forward to any feedback you may have regarding my submission.
-
+by Shreya S Jaganur.
